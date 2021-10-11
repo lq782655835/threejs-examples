@@ -113,3 +113,7 @@ function render() {
   view.renderer.render(view.scene, view.camera);
 }
 ```
+
+threejs文档：https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+
+更多在线案例：https://threejs.org/examples/#webgl_animation_keyframes
